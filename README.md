@@ -1,5 +1,5 @@
 # Language-detection-project
-Preforming language detection on several texts that are actually tweets i scrapped from twitter using selinium python library using machine learning algorithms.
+Preforming language detection on several texts using machine learning algorithms.
 
 methodology followed in the project is represented in this map:
 
