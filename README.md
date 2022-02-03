@@ -1,6 +1,6 @@
 # Language-detection-project
-Preforming language detection on several texts using machine learning algorithms
-# **Preface**
+Preforming language detection on several texts using machine learning algorithms.
+
 methodology followed in the project is represented in this map:
 
 
