@@ -51,3 +51,4 @@ Here's how does the countvectorizer work:
 Ps: in this exemple we're refering to the uni-gram parameter, it's pretty clear since the size of the constracted vector is equal to 32 which is the number of unique features in uni-gram!
 
 
+
