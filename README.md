@@ -108,3 +108,11 @@ For this problem, we used 3 classification models:
  
  **Result**:
  After applying k-fold cross validation, we found that Logistic regression using Top 1%  Mixture is the best model, because he was able to distinguish more or less between the languages.
+
+
+#  **Deployement**
+
+
+You can reach the application on streamlit here: 
+
+https://share.streamlit.io/laila-sul/language-detection-project/laila-sul-patch-3/streamlitapi.py
