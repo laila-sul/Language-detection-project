@@ -4,8 +4,7 @@ Preforming language detection on several texts using machine learning algorithms
 methodology followed in the project is represented in this map:
 
 
-<img width="413" alt="image" src="https://user-images.githubusercontent.com/81523859/152368036-082fb005-5a27-481d-8eb0-daa1797edaa7.png">
-
+<img width="413" alt="image" src="https://user-images.githubusercontent.com/66137466/153961994-45d22fb7-e86d-40a0-a3eb-766819384369.jpeg">
 
 **1-Data unserstanding**
 we started by data collection, using the selenium python library we scraped data from twitter we basically foccused on scrapping data in 3 different languages: Darija, French and English. Then we explored our dataset to understand it's specifities and caracteristics.
