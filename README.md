@@ -106,4 +106,4 @@ For this problem, we used 3 classification models:
  ### Logistic Regression
  
  **Result**:
- After applying k-fold cross validation, we found that Logistic regression using Top 1%  Mixture is the best model, because he was able to distinguish more or less between the languages.
+ After applying k-fold cross validation, we found that Logistic regression using Top 1%  Mixture is the best model, because it was able to distinguish more or less between the languages.
